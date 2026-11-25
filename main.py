@@ -1,3 +1,6 @@
+# Nama: Ardian Subakti
+# NIM: 25552011083
+
 from rekening_tabungan import RekeningTabungan
 from rekening_giro import RekeningGiro
 from transaksi import Transaksi
