@@ -1,3 +1,6 @@
+# Nama: Ardian Subakti
+# NIM: 25552011083
+
 class Transaksi:
     def __init__(self, kode_transaksi, rekening, jenis_transaksi, jumlah):
         # Validasi nilai transaksi
