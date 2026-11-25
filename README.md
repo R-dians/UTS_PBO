@@ -1,3 +1,6 @@
+# Nama: Ardian Subakti
+# NIM: 25552011083
+
 # Aplikasi Rekening Bank Mini (Studi Kasus UTS PBO - NIM Akhir 3)
 
 Aplikasi CLI sederhana berbasis Python yang dibangun sesuai dengan instruksi Ujian Tengah Semester (UTS) mata kuliah Pemrograman Berorientasi Objek I.
