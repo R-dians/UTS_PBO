@@ -1,9 +1,3 @@
-# ==========================================================
-# File: rekening_giro.py
-# Subclass: RekeningGiro (mewarisi Rekening)
-# Deskripsi: Rekening giro dengan fasilitas penarikan overdraft
-# ==========================================================
-
 from rekening import Rekening
 
 class RekeningGiro(Rekening):
