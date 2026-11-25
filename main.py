@@ -1,9 +1,3 @@
-# ==========================================================
-# File: main.py
-# Main file untuk menjalankan aplikasi berbasis CLI
-# Deskripsi: Menu interaktif teks mengelola data rekening dan transaksi
-# ==========================================================
-
 from rekening_tabungan import RekeningTabungan
 from rekening_giro import RekeningGiro
 from transaksi import Transaksi
