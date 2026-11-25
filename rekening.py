@@ -1,9 +1,3 @@
-# ==========================================================
-# File: rekening.py
-# Superclass: Rekening
-# Deskripsi: Mengelola data dasar rekening bank dan menerapkan enkapsulasi
-# ==========================================================
-
 class Rekening:
     def __init__(self, nomor_rekening, nama_pemilik, saldo=0):
         # Validasi saldo awal agar tidak bernilai negatif
