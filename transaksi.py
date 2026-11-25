@@ -1,9 +1,3 @@
-# ==========================================================
-# File: transaksi.py
-# Class Asosiasi: Transaksi
-# Deskripsi: Merepresentasikan relasi association (Setiap Transaksi terkait ke satu Rekening)
-# ==========================================================
-
 class Transaksi:
     def __init__(self, kode_transaksi, rekening, jenis_transaksi, jumlah):
         # Validasi nilai transaksi
