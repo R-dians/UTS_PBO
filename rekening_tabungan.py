@@ -1,9 +1,3 @@
-# ==========================================================
-# File: rekening_tabungan.py
-# Subclass: RekeningTabungan (mewarisi Rekening)
-# Deskripsi: Rekening tabungan dengan perhitungan bunga dan biaya admin
-# ==========================================================
-
 from rekening import Rekening
 
 class RekeningTabungan(Rekening):
