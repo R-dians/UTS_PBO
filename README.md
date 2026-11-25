@@ -8,7 +8,6 @@ Aplikasi CLI sederhana berbasis Python yang dibangun sesuai dengan instruksi Uji
 ---
 
 ## 1. Struktur File Proyek
-Mengikuti konvensi materi Sesi 2–7 (memisahkan setiap class ke file terpisah):
 ```text
 UTS_PBO/
 ├── rekening.py           # Superclass Rekening
