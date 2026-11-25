@@ -1,3 +1,6 @@
+# Nama: Ardian Subakti
+# NIM: 25552011083
+
 from rekening import Rekening
 
 class RekeningTabungan(Rekening):
