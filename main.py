@@ -23,12 +23,6 @@ def main():
     daftar_transaksi = []
     id_transaksi_counter = 1
 
-    # Inisialisasi data awal sebagai contoh pengujian
-    rek_awal1 = RekeningTabungan("1001", "Ahmad Fauzi", 500000)
-    rek_awal2 = RekeningGiro("2001", "PT Berkah Abadi", 1500000)
-    daftar_rekening[rek_awal1.get_nomor_rekening()] = rek_awal1
-    daftar_rekening[rek_awal2.get_nomor_rekening()] = rek_awal2
-
     while True:
         tampilkan_menu()
         pilihan = input("Pilih menu (1-6): ").strip()
